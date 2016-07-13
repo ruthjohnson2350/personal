@@ -1,5 +1,6 @@
 body{
     background-color:pink;
+    color:purple;
 }
 h1{
     font-size:40px;
@@ -18,7 +19,8 @@ img{
     border: solid purple 10px;
 }
 button{
-    background-color:purple;
+    background-color:#2A334F;
+    color:grey;
     font-size:20px;
     margin:20px;
     padding:5px;
@@ -27,6 +29,7 @@ button{
 }
 button:hover{
     background-color:red;
+    color:black;
 }
 
 .fr{
@@ -51,7 +54,7 @@ button:hover{
 }
 
 .re{
-    background-color:red;
+    background-color:#2A334F;
 }
 .se{
     font-size:40px;
@@ -61,13 +64,14 @@ button:hover{
     font-size:20px;
     font-family:cursive;
     text-align:center;
-    color:blue;
+    color:white;
 }
 .je{
     text-align:center;
     font-family:cursive;
-    color:blue;
+    color:white;
     font-size:30px;
+    list-style: none;
 }
 .le{
     height:400px;
@@ -76,5 +80,5 @@ button:hover{
 }
 .tree{
     height:400px;
-    width:300px;
-}
+    width:300px;}
+    
