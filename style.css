@@ -1,6 +1,6 @@
 body{
-    background-color:pink;
-    color:purple;
+    background-color:#000033;
+    color:#990099;
 }
 h1{
     font-size:40px;
@@ -14,10 +14,11 @@ p{
     padding:9px;
     border-radius:20px;
 }
-img{
-    height:300px;
+.dre{
+    height:400px;
     border: solid purple 10px;
 }
+
 button{
     background-color:#2A334F;
     color:grey;
@@ -48,9 +49,10 @@ button:hover{
     text-align:center;
 }
 .th{
-    border:purple solid;
+    border:green solid;
     position:relative;
-    margin:40px;
+    margin:50px;
+    height:300px;
 }
 
 .re{
@@ -74,11 +76,37 @@ button:hover{
     list-style: none;
 }
 .le{
-    height:400px;
-    width:300px;
+    height:500px;
+    width:400px;
     border:solid green 3px;
 }
 .tree{
     height:400px;
     width:300px;}
     
+    img{
+        height:300px;
+        border:dashed green 4px;
+    }.fresh{
+    color:white;
+    font-size:30px;
+    font-family:cursive;
+}
+.baby {
+    border:solid purple 10px;
+    height:400px;
+    width:400px;
+    position:relative;
+    left:400px;
+}
+.do{
+    font-size:20px;
+    color:aqua;
+    font-type:cursive;
+    text-align:center;
+}
+.crazy{
+    color:purple;
+    font-size:30px;
+    text-align:center;
+}
