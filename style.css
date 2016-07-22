@@ -82,3 +82,31 @@ button:hover{
     height:400px;
     width:300px;}
     
+body{
+    background-color:#2A334F;
+}
+.fresh{
+    color:white;
+    font-size:30px;
+    font-family:cursive;
+}
+.baby {
+    border:solid purple 10px;
+    height:400px;
+    width:400px;
+    position:relative;
+    left:400px;
+}
+.do{
+   font-size:30px;
+   color:red;
+   font-style:italic;
+   font-weight:bold;
+   text-align:center;
+   list-style-type:none;
+}
+.crazy{
+    color:red;
+    font-size:30px;
+    text-align:center;
+}
