@@ -1,5 +1,5 @@
 body{
-    background-color:pink;
+    background-color:#2A334F;
     color:purple;
 }
 h1{
@@ -19,8 +19,8 @@ img{
     border: solid purple 10px;
 }
 button{
-    background-color:#2A334F;
-    color:grey;
+    background-color:gray;
+    color:black;
     font-size:20px;
     margin:20px;
     padding:5px;
