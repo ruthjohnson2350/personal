@@ -79,7 +79,7 @@ button:hover{
     border:solid green 3px;
 }
 .tree{
-    height:400px;
+    height:300px;
     width:300px;}
     
 body{
@@ -109,4 +109,45 @@ body{
     color:red;
     font-size:30px;
     text-align:center;
+}
+.water{
+    position:relative;
+    left:200px;
+}
+.wave{
+    position:relative;
+    right:100px;
+}
+.wow{
+    position:relative;
+    bottom:400px;
+}
+.super{
+    position:relative;
+    right:160px;
+    top:300px;
+}
+.ring{
+    position:relative;
+    left:670px;
+    top:300px;
+}
+.mama{
+    position:relative;
+    right:200px;
+    top:300px;
+}
+.ugly{
+    position:relative;
+    top:350px;
+    right:-60px;
+}
+.pretty{
+    position:relative;
+    top:400px;
+   left:100px;
+}
+.most{
+    position:relative;
+    right:200px;
 }
