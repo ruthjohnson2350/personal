@@ -56,11 +56,9 @@ button:hover{
     border:white solid;
     position:relative;
     margin:40px;
+    border-radius:20px;
 }
 
-.re{
-    background-color:#2A334F;
-}
 .se{
     font-size:40px;
     text-align:center;
